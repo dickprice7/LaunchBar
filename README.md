@@ -1,0 +1,1 @@
+is:open category:Q&A label:question Old Rectangle user - New Retangle Pro User - QUESTION - if I manualy enter the old shortcuts will those interfere with the new feature the pro version uses?  the author:
